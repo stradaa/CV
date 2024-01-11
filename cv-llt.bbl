@@ -1,0 +1,706 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{Sun_Reid_Zhang_Zhu_Ferreira_Estrada_Sun_Draper_Yue_Copos_etal._2023}{article}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=9b0c607226ec084088f6f766b8304a2b}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yaohui},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f59c7258a696b82b5885bbef91195a4}{%
+           family={Reid},
+           familyi={R\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8522d07fda15f076adb661979e0bd01c}{%
+           family={Estrada},
+           familyi={E\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28f91f3a4b62ce57b7a533e742e8aae1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=965a81d53157641ce03db5caa07da3c3}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Kan},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce1999a2def4b3e68b1e891baff26fee}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6894398f2e9daff7bc5094500895b225}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yuxin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0bf117c180b4e8d90539f6059beca41}{%
+           family={Draper},
+           familyi={D\bibinitperiod},
+           given={Bruce\bibnamedelima W.},
+           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a6081d23c261a740ad5976f1f4143f6}{%
+           family={Yue},
+           familyi={Y\bibinitperiod},
+           given={Haicen},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d1d160b564ab9ca5486c861a9429392}{%
+           family={Copos},
+           familyi={C\bibinitperiod},
+           given={Calina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{a529e7f5167b8a97c03d95c33e9c25a8}
+      \strng{fullhash}{3f051c2c6bbf69636df59c2c1878e3c0}
+      \strng{bibnamehash}{a529e7f5167b8a97c03d95c33e9c25a8}
+      \strng{authorbibnamehash}{a529e7f5167b8a97c03d95c33e9c25a8}
+      \strng{authornamehash}{a529e7f5167b8a97c03d95c33e9c25a8}
+      \strng{authorfullhash}{3f051c2c6bbf69636df59c2c1878e3c0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular Biology of the Cell}
+      \field{number}{5}
+      \field{title}{Electric field–guided collective motility initiation of large epidermal cell groups}
+      \field{volume}{34}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1091/mbc.e22-09-0391
+      \endverb
+    \endentry
+    \entry{Boon:Lim:ICEEE2014}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9023696aa421abbfad4ba7b93024f015}{%
+           family={Boon},
+           familyi={B\bibinitperiod},
+           given={Kah\bibnamedelima Ming},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {Kuala Lumpur, Malaysia}%
+      }
+      \strng{namehash}{367ee53a25e74f3ab631be001c821d3f}
+      \strng{fullhash}{367ee53a25e74f3ab631be001c821d3f}
+      \strng{bibnamehash}{367ee53a25e74f3ab631be001c821d3f}
+      \strng{authorbibnamehash}{367ee53a25e74f3ab631be001c821d3f}
+      \strng{authornamehash}{367ee53a25e74f3ab631be001c821d3f}
+      \strng{authorfullhash}{367ee53a25e74f3ab631be001c821d3f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 3rd {I}nternational {C}onference on {E}-{L}earning and {E}-{T}echnologies in {E}ducation (\textsc{iceee} 2014)}
+      \field{title}{An Examination Question Paper Preparation System with Content-Style Separation and {B}loom's Taxonomy Categorisation}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{39\bibrangedash 47}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb http://goo.gl/pfdUfm
+      \endverb
+      \verb{url}
+      \verb http://goo.gl/pfdUfm
+      \endverb
+    \endentry
+    \entry{Lim:thesis:2013}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{institution}{2}{%
+        {Faculty of Computing}%
+        {Informatics, Multimedia University}%
+      }
+      \list{location}{1}{%
+        {Cyberjaya, Malaysia}%
+      }
+      \strng{namehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{fullhash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{bibnamehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{authorbibnamehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{authornamehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{authorfullhash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Low-Cost Multilingual Lexicon Construction for Under-Resourced Languages}
+      \field{type}{phdthesis}
+      \field{year}{2013}
+      \true{nocite}
+    \endentry
+    \entry{Lim:etal:ACL2013}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=11ea6862c62b40b2a33d587c8c7f0a43}{%
+           family={Soon},
+           familyi={S\bibinitperiod},
+           given={Lay-Ki},
+           giveni={L\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=41c0ad6f5045bf5983a8f4784f9016e4}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Tek\bibnamedelima Yong},
+           giveni={T\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=8e1984fbd5f32936b392e68240be8a71}{%
+           family={Ranaivo-Malançon},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Bali},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ad08b48ab1f3f317937f12c116b1a91}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Enya\bibnamedelima Kong},
+           giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Sofia, Bulgaria}%
+      }
+      \strng{namehash}{45f64b497063cdfb85b5acd20a54598c}
+      \strng{fullhash}{89721ed02eea43ae4f7101ad05759d1c}
+      \strng{bibnamehash}{89721ed02eea43ae4f7101ad05759d1c}
+      \strng{authorbibnamehash}{89721ed02eea43ae4f7101ad05759d1c}
+      \strng{authornamehash}{45f64b497063cdfb85b5acd20a54598c}
+      \strng{authorfullhash}{89721ed02eea43ae4f7101ad05759d1c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 51st {A}nnual {M}eeting of the {A}ssociation for {C}omputational {L}inguistics}
+      \field{title}{Context-Dependent Multilingual Lexical Lookup for Under-Resourced Languages}
+      \field{year}{2013}
+      \true{nocite}
+      \field{pages}{294\bibrangedash 299}
+      \range{pages}{6}
+    \endentry
+    \entry{Lim:Ranaivo:Tang:PACLING2011}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=8e1984fbd5f32936b392e68240be8a71}{%
+           family={Ranaivo-Malançon},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Bali},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ad08b48ab1f3f317937f12c116b1a91}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Enya\bibnamedelima Kong},
+           giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Kuala Lumpur, Malaysia}%
+      }
+      \strng{namehash}{15c50d51fc30cb922cb8ec70648b8ce2}
+      \strng{fullhash}{15c50d51fc30cb922cb8ec70648b8ce2}
+      \strng{bibnamehash}{15c50d51fc30cb922cb8ec70648b8ce2}
+      \strng{authorbibnamehash}{15c50d51fc30cb922cb8ec70648b8ce2}
+      \strng{authornamehash}{15c50d51fc30cb922cb8ec70648b8ce2}
+      \strng{authorfullhash}{15c50d51fc30cb922cb8ec70648b8ce2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 12th {C}onference of the {P}acific {A}ssociation for {C}omputational {L}inguistics (\textsc{pacling} 2011)}
+      \field{title}{Symbiosis between a Multilingual Lexicon and Translation Example Banks}
+      \field{year}{2011}
+      \true{nocite}
+      \keyw{own}
+    \endentry
+    \entry{Bahari:Lim:2009}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=1ebd921273132bf279c7ddb76d2e1cab}{%
+           family={Belaton},
+           familyi={B\bibinitperiod},
+           given={Bahari},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {Penang, Malaysia}%
+      }
+      \list{publisher}{1}{%
+        {Platform for Information \& Communication Technology Research, Universiti Sains Malaysia}%
+      }
+      \strng{namehash}{ebac3b693ffc111cda79d92a20aa97f4}
+      \strng{fullhash}{ebac3b693ffc111cda79d92a20aa97f4}
+      \strng{bibnamehash}{ebac3b693ffc111cda79d92a20aa97f4}
+      \strng{editorbibnamehash}{ebac3b693ffc111cda79d92a20aa97f4}
+      \strng{editornamehash}{ebac3b693ffc111cda79d92a20aa97f4}
+      \strng{editorfullhash}{ebac3b693ffc111cda79d92a20aa97f4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-983-3986-58-3}
+      \field{title}{Grid Computing Cluster: The Development and Integration of Grid Services and Applications}
+      \field{year}{2009}
+      \true{nocite}
+      \keyw{own}
+    \endentry
+    \entry{Lim:2009}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {Kuala Lumpur, Malaysia}%
+      }
+      \strng{namehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{fullhash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{bibnamehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{authorbibnamehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{authornamehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{authorfullhash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 11th {I}nternational {C}onference on {I}nformation {I}ntegration and {W}eb-based {A}pplications \& {S}ervices (ii\textsc{was}2009) {M}aster and {D}octoral {C}olloquium (\textsc{mdc})}
+      \field{title}{Multilingual Lexicons for Machine Translation}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{732\bibrangedash 736}
+      \range{pages}{5}
+    \endentry
+    \entry{Tang:etal:Blexisma2:2009}{incollection}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2ad08b48ab1f3f317937f12c116b1a91}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Enya\bibnamedelima Kong},
+           giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=674ca2e06bf1dec0435c242bc919ec3a}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Hong\bibnamedelima Hoe},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac7eded7d1fe2f257edf8c96dfebd2de}{%
+           family={Schwab},
+           familyi={S\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=1ebd921273132bf279c7ddb76d2e1cab}{%
+           family={Belaton},
+           familyi={B\bibinitperiod},
+           given={Bahari},
+           giveni={B\bibinitperiod}}}%
+        {{hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Penang, Malaysia}%
+      }
+      \list{publisher}{1}{%
+        {Platform for Information \& Communication Technology Research, Universiti Sains Malaysia}%
+      }
+      \strng{namehash}{7a9d3c378fb5c8fa6c9107da12686ea1}
+      \strng{fullhash}{97ebfa3468db8a09399b5b701429e55d}
+      \strng{bibnamehash}{97ebfa3468db8a09399b5b701429e55d}
+      \strng{authorbibnamehash}{97ebfa3468db8a09399b5b701429e55d}
+      \strng{authornamehash}{7a9d3c378fb5c8fa6c9107da12686ea1}
+      \strng{authorfullhash}{97ebfa3468db8a09399b5b701429e55d}
+      \strng{editorbibnamehash}{ebac3b693ffc111cda79d92a20aa97f4}
+      \strng{editornamehash}{ebac3b693ffc111cda79d92a20aa97f4}
+      \strng{editorfullhash}{ebac3b693ffc111cda79d92a20aa97f4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Grid Computing Cluster: The Development and Integration of Grid Applications and Services}
+      \field{title}{Grid-enabled {B}lexisma2}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{23\bibrangedash 26}
+      \range{pages}{4}
+      \keyw{own}
+    \endentry
+    \entry{lim:schwab:nlpcs:08}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=ac7eded7d1fe2f257edf8c96dfebd2de}{%
+           family={Schwab},
+           familyi={S\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Barcelona, Spain}%
+      }
+      \strng{namehash}{4e2d176a7f86b18a0b6a71321c25e93c}
+      \strng{fullhash}{4e2d176a7f86b18a0b6a71321c25e93c}
+      \strng{bibnamehash}{4e2d176a7f86b18a0b6a71321c25e93c}
+      \strng{authorbibnamehash}{4e2d176a7f86b18a0b6a71321c25e93c}
+      \strng{authornamehash}{4e2d176a7f86b18a0b6a71321c25e93c}
+      \strng{authorfullhash}{4e2d176a7f86b18a0b6a71321c25e93c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 5th {International Workshop on Natural Language Processing and Cognitive Science (\textsc{nlpcs}'08)}}
+      \field{title}{Limits of Lexical Semantic Relatedness with Ontology-based Conceptual Vectors}
+      \field{year}{2008}
+      \true{nocite}
+      \field{pages}{153\bibrangedash 158}
+      \range{pages}{6}
+      \keyw{utmkblex,own}
+    \endentry
+    \entry{schwab:lim:dfma:08}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ac7eded7d1fe2f257edf8c96dfebd2de}{%
+           family={Schwab},
+           familyi={S\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {Penang, Malaysia}%
+      }
+      \strng{namehash}{5f4b7f1d3dde405f9c8682448b23f20b}
+      \strng{fullhash}{5f4b7f1d3dde405f9c8682448b23f20b}
+      \strng{bibnamehash}{5f4b7f1d3dde405f9c8682448b23f20b}
+      \strng{authorbibnamehash}{5f4b7f1d3dde405f9c8682448b23f20b}
+      \strng{authornamehash}{5f4b7f1d3dde405f9c8682448b23f20b}
+      \strng{authorfullhash}{5f4b7f1d3dde405f9c8682448b23f20b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 1st {I}nternational {C}onference on {D}istributed {F}rameworks \& {A}pplications 2008 (\textsc{df}m\textsc{a} 2008)}
+      \field{title}{Blexisma2: a Distributed Agent Framework for Constructing a Semantic Lexical Database based on Conceptual Vectors}
+      \field{year}{2008}
+      \true{nocite}
+      \field{pages}{102\bibrangedash 110}
+      \range{pages}{9}
+      \keyw{utmkblex,own}
+    \endentry
+    \entry{lim:tan:tang:2007}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=5d4111f319f1be3daba1e7ef99e44f36}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Ewe\bibnamedelima Hoe},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ad08b48ab1f3f317937f12c116b1a91}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Enya\bibnamedelima Kong},
+           giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Kuala Lumpur, Malaysia}%
+      }
+      \strng{namehash}{978d23cdff9c8111c619c1575533a605}
+      \strng{fullhash}{978d23cdff9c8111c619c1575533a605}
+      \strng{bibnamehash}{978d23cdff9c8111c619c1575533a605}
+      \strng{authorbibnamehash}{978d23cdff9c8111c619c1575533a605}
+      \strng{authornamehash}{978d23cdff9c8111c619c1575533a605}
+      \strng{authorfullhash}{978d23cdff9c8111c619c1575533a605}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 11th {I}nternational {C}onference on {T}ranslation}
+      \field{title}{Digitising Dictionaries for Advanced Look-up and Lexical Knowledge Research in {Malay}}
+      \field{year}{2007}
+      \true{nocite}
+      \keyw{own}
+    \endentry
+    \entry{didier:lim:mathieu:2007:en}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ac7eded7d1fe2f257edf8c96dfebd2de}{%
+           family={Schwab},
+           familyi={S\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=892177900e611a6e9d1572ee961b28e7}{%
+           family={Lafourcade},
+           familyi={L\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Funchal, Madeira, Portugal}%
+      }
+      \strng{namehash}{db68fab72a4dcfd6b2e00fb3c8e689d0}
+      \strng{fullhash}{db68fab72a4dcfd6b2e00fb3c8e689d0}
+      \strng{bibnamehash}{db68fab72a4dcfd6b2e00fb3c8e689d0}
+      \strng{authorbibnamehash}{db68fab72a4dcfd6b2e00fb3c8e689d0}
+      \strng{authornamehash}{db68fab72a4dcfd6b2e00fb3c8e689d0}
+      \strng{authorfullhash}{db68fab72a4dcfd6b2e00fb3c8e689d0}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 4th {International Workshop on Natural Language Processing and Cognitive Science (\textsc{nlpcs} 2007)}}
+      \field{title}{Conceptual Vectors, a Complementary Tool to Lexical Networks}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+    \entry{didier:lim:mathieu:2007:fr}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ac7eded7d1fe2f257edf8c96dfebd2de}{%
+           family={Schwab},
+           familyi={S\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=892177900e611a6e9d1572ee961b28e7}{%
+           family={Lafourcade},
+           familyi={L\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Toulouse, France}%
+      }
+      \strng{namehash}{db68fab72a4dcfd6b2e00fb3c8e689d0}
+      \strng{fullhash}{db68fab72a4dcfd6b2e00fb3c8e689d0}
+      \strng{bibnamehash}{db68fab72a4dcfd6b2e00fb3c8e689d0}
+      \strng{authorbibnamehash}{db68fab72a4dcfd6b2e00fb3c8e689d0}
+      \strng{authornamehash}{db68fab72a4dcfd6b2e00fb3c8e689d0}
+      \strng{authorfullhash}{db68fab72a4dcfd6b2e00fb3c8e689d0}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of {Traitement Automatique des Langues Naturelle (\textsc{taln} 2007)}}
+      \field{title}{\emph{Les Vecteurs Conceptuels, un Outil Complémentaire aux Réseaux Lexicaux}}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+    \entry{lim:2006}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {Penang, Malaysia}%
+      }
+      \strng{namehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{fullhash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{bibnamehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{authorbibnamehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{authornamehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{authorfullhash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {R}egional {C}omputer {S}cience {P}ostgraduate {C}olloquium ({R}e\textsc{cspc}'06)}
+      \field{title}{Improving Translation Selection with Conceptual Vectors}
+      \field{year}{2006}
+      \true{nocite}
+      \field{pages}{231\bibrangedash 234}
+      \range{pages}{4}
+      \keyw{own}
+    \endentry
+    \entry{lim:2006:thesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{institution}{1}{%
+        {School of Computer Sciences, Universiti Sains Malaysia}%
+      }
+      \list{location}{1}{%
+        {Penang, Malaysia}%
+      }
+      \strng{namehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{fullhash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{bibnamehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{authorbibnamehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{authornamehash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \strng{authorfullhash}{0bcf893fe776f3abb3b72e9c58a1e8f5}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {R}egional {C}omputer {S}cience {P}ostgraduate {C}olloquium ({R}e\textsc{cspc}'06)}
+      \field{title}{Improving Translation Selection with Conceptual Vectors}
+      \field{type}{MSc thesis}
+      \field{year}{2006}
+      \true{nocite}
+      \keyw{own}
+    \endentry
+    \entry{lim:hussein:2006}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=0bcf893fe776f3abb3b72e9c58a1e8f5}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Lian\bibnamedelima Tze},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=b6704fd35189de9fbe23546a3c78f347}{%
+           family={Hussein},
+           familyi={H\bibinitperiod},
+           given={Nur},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bangkok, Thailand}%
+      }
+      \strng{namehash}{4a299fe389a89eb2a79e79a91088d57e}
+      \strng{fullhash}{4a299fe389a89eb2a79e79a91088d57e}
+      \strng{bibnamehash}{4a299fe389a89eb2a79e79a91088d57e}
+      \strng{authorbibnamehash}{4a299fe389a89eb2a79e79a91088d57e}
+      \strng{authornamehash}{4a299fe389a89eb2a79e79a91088d57e}
+      \strng{authorfullhash}{4a299fe389a89eb2a79e79a91088d57e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {Language, Artificial Intelligence and Computer Science for Natural Language Processing (\textsc{laics-nlp}) Summer School Workshop}}
+      \field{note}{Best Paper Award}
+      \field{title}{Fast Prototyping of a {Malay WordNet} System}
+      \field{year}{2006}
+      \true{nocite}
+      \field{pages}{13\bibrangedash 16}
+      \range{pages}{4}
+      \keyw{own}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
